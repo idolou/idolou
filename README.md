@@ -24,7 +24,7 @@
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false?style=centerme)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true?style=centerme)
 
 
 <!--
