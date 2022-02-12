@@ -5,7 +5,7 @@
 
 
 
-<p align='center'>
+<p>
   
   <a href="https://www.linkedin.com/in/ido-lourie-information-systems/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,16 +15,16 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=idolou&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idolou&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="350"></a>
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true?style=centerme)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true)
 
 
 <!--
