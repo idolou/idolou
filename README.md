@@ -26,6 +26,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true)
 
+[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true)
+
+
 
 <!--
 **idolou/idolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
