@@ -9,14 +9,19 @@ Here are some project that i did over the years:
 1.  **Object oriented programming (Java)** - Some OOP projects in java. 
       - [Maze Game Application]( https://github.com/idolou/Maze-Application).     
       - [Data Structures Implemntation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
+      - [Farms market management](https://github.com/idolou/Farms-market-management)
 
 
-2. **Statistical Learning and data analysis** - Really interesting course that covered most of the topics in ISLR and in [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Shalizi. 
+2. **System and Multi Thread Applications**.
+      - [SpreadSheetApp](https://github.com/idolou/Shareable-SpreadSheetApp).
+      - [Task Manager](https://github.com/idolou/Multi-Thread-Programs).    
+      - [File System](https://github.com/idolou/Thread-Safe-FIle-System-Application).  
+
 
 Projects:
 
 
-[For more projects](https://github.com/yonatanlou/study_projects_bsc)
+
 
 
 <p>
