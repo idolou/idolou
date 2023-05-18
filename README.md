@@ -31,9 +31,9 @@ Projects:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=idolou&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p>
+<!-- <p>
   <a href="#" align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idolou&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="350"></a>
-</p>
+</p> -->
 
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true) -->
