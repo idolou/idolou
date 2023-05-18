@@ -7,7 +7,8 @@ I'm Ido, undergraduate student at Ben-Gurion University(BGU)
 Here are some project that i did over the years:
 
 1.  **Object oriented programming (Java)** - Some OOP projects in java. 
-      - [Maze Game Application]( https://github.com/idolou/Maze-Application).      
+      - [Maze Game Application]( https://github.com/idolou/Maze-Application).     
+      - [Data Structures Implemntation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
 
 
 2. **Statistical Learning and data analysis** - Really interesting course that covered most of the topics in ISLR and in [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Shalizi. 
