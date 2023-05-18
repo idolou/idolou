@@ -3,7 +3,7 @@
 </h1>
 <p>I'm Ido, undergraduate student at Ben-Gurion University(BGU)</p>
 
-#Here are some project that i did over the years:
+<h3Here are some project that i did over the years:</h3>
 
 [**Wikipedia Search Engine**](https://github.com/idolou/Wikipedia-Search-Engine)
 
