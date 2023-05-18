@@ -1,7 +1,7 @@
 <h1 align='center'>
   Ido Lourie
 </h1>
-<h2>I'm Ido, undergraduate student at Ben-Gurion University(BGU)</h2>
+<p>I'm Ido, undergraduate student at Ben-Gurion University(BGU)</p>
 
 #Here are some project that i did over the years:
 
