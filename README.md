@@ -1,10 +1,9 @@
 <h1 align='center'>
   Ido Lourie
 </h1>
+##I'm Ido, undergraduate student at Ben-Gurion University(BGU)
 
-I'm Ido, undergraduate student at Ben-Gurion University(BGU)
-
-Here are some project that i did over the years:
+#Here are some project that i did over the years:
 
 [**Wikipedia Search Engine**](https://github.com/idolou/Wikipedia-Search-Engine)
 
