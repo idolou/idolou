@@ -6,6 +6,8 @@ I'm Ido, undergraduate student at Ben-Gurion University(BGU)
 
 Here are some project that i did over the years:
 
+[**Wikipedia Search Engine**](https://github.com/idolou/Wikipedia-Search-Engine)
+
 1.  **Object oriented programming (Java)** - Some OOP projects in java. 
       - [Maze Game Application]( https://github.com/idolou/Maze-Application).     
       - [Data Structures Implemntation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
@@ -18,7 +20,8 @@ Here are some project that i did over the years:
       - [File System](https://github.com/idolou/Thread-Safe-FIle-System-Application).  
 
 
-Projects:
+<!-- 3. **Statistical Learning and data analysis** -->
+
 
 
 
