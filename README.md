@@ -2,14 +2,17 @@
   Ido Lourie
 </h1>
 <p>I'm Ido, undergraduate student at Ben-Gurion University(BGU)</p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<h3>Here are some project that i did over the years:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idolou&label=Profile%20views&color=0e75b6&style=flat" alt="chayale90" /> </p>
+
+<h3>Here are some of my projects:</h3>
 
 [**Wikipedia Search Engine**](https://github.com/idolou/Wikipedia-Search-Engine)
 
 1.  **Object oriented programming (Java)** - Some OOP projects in java. 
       - [Maze Game Application]( https://github.com/idolou/Maze-Application).     
-      - [Data Structures Implemntation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
+      - [Data Structures Implementation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
       - [Farms market management](https://github.com/idolou/Farms-market-management)
 
 
