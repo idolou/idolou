@@ -4,8 +4,16 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 
 ## My Projects 🛠️
 
+### Full Stack Applications:
+
+- [Personal Recipes Website - Vue.js/Node.js](https://github.com/idolou/Shareable-SpreadSheetApp)
+
 ### Information Retrieval Projects:
 - [Wikipedia Search Engine - Python, PySpark, GCP](https://github.com/idolou/Wikipedia-Search-Engine)
+
+### Web Games:
+-  [Space Invaders Web Game - HTML, CSS, Js](https://github.com/idolou/Space-Invaders-Web-Game)
+
 
 ### Object-Oriented Programming:
 
@@ -19,9 +27,7 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 - [Task Manager - C#](https://github.com/idolou/Multi-Thread-Programs)
 - [File System - C#](https://github.com/idolou/Thread-Safe-FIle-System-Application)
 
-### Full Stack Applications:
 
-- [Personal Recipes Website - Vue.js/Node.js](https://github.com/idolou/Shareable-SpreadSheetApp)
 
 ## Connect with Me 🤝
 
