@@ -1,69 +1,36 @@
-<h1 align='center'>
-  Ido Lourie
-</h1>
-<p>I'm Ido, undergraduate student at Ben-Gurion University(BGU)</p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+# Ido Lourie - Full Stack Developer 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idolou&label=Profile%20views&color=0e75b6&style=flat" alt="chayale90" /> </p>
+I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion University (BGU).
 
-<h3>Here are some of my projects:</h3>
+## My Projects 🛠️
 
-[**Wikipedia Search Engine**](https://github.com/idolou/Wikipedia-Search-Engine)
+### Information Retrieval Projects:
+- [Wikipedia Search Engine - Python, PySpark, GCP](https://github.com/idolou/Wikipedia-Search-Engine)
 
-1.  **Object oriented programming (Java)** - Some OOP projects in java. 
-      - [Maze Game Application]( https://github.com/idolou/Maze-Application).     
-      - [Data Structures Implementation in JAVA](https://github.com/idolou/Data-structures-Application-with-java)
-      - [Farms market management](https://github.com/idolou/Farms-market-management)
+### Object-Oriented Programming:
 
+- [Maze Game Application - JAVA](https://github.com/idolou/Maze-Application)
+- [Data Structures Implementation - JAVA](https://github.com/idolou/Data-structures-Application-with-java)
+- [Farms Market Management - C++](https://github.com/idolou/Farms-market-management)
 
-2. **System and Multi Thread Applications**.
-      - [SpreadSheetApp](https://github.com/idolou/Shareable-SpreadSheetApp).
-      - [Task Manager](https://github.com/idolou/Multi-Thread-Programs).    
-      - [File System](https://github.com/idolou/Thread-Safe-FIle-System-Application).  
+### System and Multi-Thread Applications:
 
+- [SpreadSheetApp - C#](https://github.com/idolou/Shareable-SpreadSheetApp)
+- [Task Manager - C#](https://github.com/idolou/Multi-Thread-Programs)
+- [File System - C#](https://github.com/idolou/Thread-Safe-FIle-System-Application)
 
-<!-- 3. **Statistical Learning and data analysis** -->
+### Full Stack Applications:
 
+- [Personal Recipes Website - Vue.js/Node.js](https://github.com/idolou/Shareable-SpreadSheetApp)
 
+## Connect with Me 🤝
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-lourie/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iddolourie?si=04702341cbaa4605)
 
+## GitHub Stats 📊
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idolou&show_icons=true&count_private=true&theme=dark)
 
-<p>
-  
-  <a href="https://www.linkedin.com/in/ido-lourie/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/iddolourie?si=04702341cbaa4605">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=idolou&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<!-- <p>
-  <a href="#" align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idolou&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="350"></a>
-</p> -->
-
-
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=iddolourie&redirect=true) -->
-
-
-
-<!--
-**idolou/idolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idolou&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
