@@ -13,7 +13,7 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 - [Wikipedia Search Engine - Python, PySpark, GCP](https://github.com/idolou/Wikipedia-Search-Engine)
 
 ### Video Analysis
-- [Python Vieo Analysis - Python(opencv, pytesseract, numpy)](https://github.com/idolou/Python-Vieo-Analysis)
+- [Python Video Analysis - Python(opencv, pytesseract, numpy)](https://github.com/idolou/Python-Vieo-Analysis)
 
 ### Web Games:
 -  [Space Invaders Web Game - HTML, CSS, Js](https://github.com/idolou/Space-Invaders-Web-Game)
