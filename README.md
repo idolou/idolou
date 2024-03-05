@@ -31,8 +31,6 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 - [Task Manager - C#](https://github.com/idolou/Multi-Thread-Programs)
 - [File System - C#](https://github.com/idolou/Thread-Safe-FIle-System-Application)
 
-
-
 ## Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-lourie/)
@@ -40,7 +38,10 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idolou&show_icons=true&count_private=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idolou&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vuejs,redux,nodejs,express,mongodb,postgresql,scss,html,css,javascript,typescript,python,bash,bootstrap,cs,cpp,gcp,git,java,mongodb,opencv,sklearn,tensorflow&perline=6" />
+<br/>
+
 
