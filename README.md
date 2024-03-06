@@ -30,6 +30,7 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 - [SpreadSheetApp - C#](https://github.com/idolou/Shareable-SpreadSheetApp)
 - [Task Manager - C#](https://github.com/idolou/Multi-Thread-Programs)
 - [File System - C#](https://github.com/idolou/Thread-Safe-FIle-System-Application)
+- [Pokemon Battles Management - C](https://github.com/idolou/Pokemon-Battles-System)
 
 ## Connect with Me 🤝
 
