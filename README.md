@@ -1,4 +1,4 @@
-# Ido Lourie - Full Stack Developer 🚀
+# Ido Lourie
 
 I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion University (BGU).
 
