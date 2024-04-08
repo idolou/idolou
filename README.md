@@ -20,6 +20,9 @@ I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion U
 -  [Space Invaders Web Game - HTML, CSS, Js](https://github.com/idolou/Space-Invaders-Web-Game)
 
 
+### Data Science:
+-  [Car Insurance Fraud Detection  - Python(sklearn, xgboost, numpy, pandas, matplotlib)](https://github.com/idolou/Car-Insurance-Fraud-Detection)
+
 ### Object-Oriented Programming:
 
 - [Maze Game Application - JAVA](https://github.com/idolou/Maze-Application)
