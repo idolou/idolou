@@ -1,7 +1,7 @@
 # Ido Lourie
 
 
-I'm Ido, a Software & Information Systems Engineering graduate from Ben-Gurion University (BGU).
+Software Engineer at Tenable - https://www.linkedin.com/company/tenableinc.
 
 ## My Projects 🛠️
 
