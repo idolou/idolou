@@ -1,25 +1,32 @@
 # Ido Lourie
 
-**Software Engineer at [Tenable](https://www.linkedin.com/company/tenableinc)**
-
----
+## **Software Engineer at [Tenable](https://www.linkedin.com/company/tenableinc)**
 
 ## Projects
 
 ### Generative AI & Information Retrieval
-*Focus: LLMs, RAG, Vector Search, and Data Pipelines*
 
+_Focus: LLMs, RAG, Vector Search, and Data Pipelines_
+
+- **[Insurance Retrieval System](https://github.com/idolou/insurance-retrieval-system)** - Python, LangChain, RAG
+  - Advanced RAG system for retrieving information from insurance policy documents using hierarchical indexing and re-ranking.
+- **[Local Mind](https://github.com/idolou/local-mind)** - Python
+  - _[Description to be added: Local LLM or Agentic workflow?]_
 - **[Wikipedia Search Engine](https://github.com/idolou/Wikipedia-Search-Engine)** - Python, PySpark, GCP
-    - Scalable information retrieval system using inverted indices and PageRank algorithms (Foundational concepts for RAG).
-- **[LLM / RAG Experiments](https://github.com/idolou?tab=repositories)** *(Placeholder / In Progress)*
-    - Exploration of LangChain, vector databases, and agentic workflows.
+  - Scalable information retrieval system using inverted indices and PageRank algorithms (Foundational concepts for RAG).
+- **[LLM / RAG Experiments](https://github.com/idolou?tab=repositories)** _(Placeholder / In Progress)_
+  - Exploration of LangChain, vector databases, and agentic workflows.
 
 ### Data Science & Computer Vision
+
+- **[Clothing Classifier](https://github.com/idolou/clothing-classifier)** - Python, Streamlit, Hugging Face
+  - Image classification application for clothing items using local Hugging Face models and a modern Streamlit UI.
 - **[Car Insurance Fraud Detection](https://github.com/idolou/Car-Insurance-Fraud-Detection)** - Python (Scikit-learn, XGBoost, Pandas)
 - **[Python Video Analysis](https://github.com/idolou/Python-Vieo-Analysis)** - Python (OpenCV, Pytesseract, NumPy)
 
 ### Systems & High-Performance Computing
-*Focus: Concurrency, Memory Management, and OS Concepts*
+
+_Focus: Concurrency, Memory Management, and OS Concepts_
 
 - **[Thread-Safe File System](https://github.com/idolou/Thread-Safe-FIle-System-Application)** - C# (Multi-threading, Locks)
 - **[Task Manager](https://github.com/idolou/Multi-Thread-Programs)** - C# (System Processes)
@@ -28,22 +35,20 @@
 - **[Pokemon Battles System](https://github.com/idolou/Pokemon-Battles-System)** - C (Low-level Pointers/Memory)
 
 ### Full Stack & Application Engineering
+
 - **[Personal Recipes Website](https://github.com/idolou/Recipes-Website)** - Vue.js, Node.js
 - **[Simple CRUD Users Table](https://github.com/idolou/Data-table)** - React.js, Node.js
 - **[Space Invaders Web Game](https://github.com/idolou/Space-Invaders-Web-Game)** - HTML, CSS, JavaScript
 - **[Maze Game Application](https://github.com/idolou/Maze-Application)** - Java (OOP Design Patterns)
 
----
-
-## Technical Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,gcp,java,cpp,cs,nodejs,react,vuejs,mongodb,postgresql,docker,git,bash&perline=10" />
-</div>
 
 ---
 
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iddolourie&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iddolourie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ## Connect
 
