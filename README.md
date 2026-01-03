@@ -14,8 +14,6 @@ _Focus: LLMs, RAG, Vector Search, and Data Pipelines_
     - Privacy-focused local chatbot with persistent memory using vector databases, running entirely on-machine without cloud dependencies.
 - **[Wikipedia Search Engine](https://github.com/idolou/Wikipedia-Search-Engine)** - Python, PySpark, GCP
   - Scalable information retrieval system using inverted indices and PageRank algorithms (Foundational concepts for RAG).
-- **[LLM / RAG Experiments](https://github.com/idolou?tab=repositories)** _(Placeholder / In Progress)_
-  - Exploration of LangChain, vector databases, and agentic workflows.
 
 ### Data Science & Computer Vision
 
