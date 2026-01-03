@@ -8,10 +8,10 @@
 
 _Focus: LLMs, RAG, Vector Search, and Data Pipelines_
 
-- **[Insurance Retrieval System](https://github.com/idolou/insurance-retrieval-system)** - Python, LangChain, RAG
-  - Advanced RAG system for retrieving information from insurance policy documents using hierarchical indexing and re-ranking.
-- **[Local Mind](https://github.com/idolou/local-mind)** - Python
-  - _[Description to be added: Local LLM or Agentic workflow?]_
+- **[Insurance Claim Agentic RAG System](https://github.com/idolou/insurance-retrieval-system)** - Python, LangChain, LlamaIndex, MCP Tools
+    - Intelligent agentic RAG system orchestrating specialized agents for insurance claim investigation with hierarchical retrieval and summary indexing.
+- **[Local Mind](https://github.com/idolou/local-mind)** - Python, React, Vector Databases
+    - Privacy-focused local chatbot with persistent memory using vector databases, running entirely on-machine without cloud dependencies.
 - **[Wikipedia Search Engine](https://github.com/idolou/Wikipedia-Search-Engine)** - Python, PySpark, GCP
   - Scalable information retrieval system using inverted indices and PageRank algorithms (Foundational concepts for RAG).
 - **[LLM / RAG Experiments](https://github.com/idolou?tab=repositories)** _(Placeholder / In Progress)_
