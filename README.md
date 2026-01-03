@@ -1,6 +1,10 @@
+<div align="center">
+
 # Ido Lourie
 
 ## **Software Engineer at [Tenable](https://www.linkedin.com/company/tenableinc)**
+
+</div>
 
 ## Projects
 
@@ -48,8 +52,13 @@ _Focus: Concurrency, Memory Management, and OS Concepts_
   </a>
 </p>
 
+
+<div align="center">
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-lourie/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iddolourie?si=d4b38865c25147cbhttps://open.spotify.com/user/iddolourie?si=d4b38865c25147cb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdoLouria)
+
+</div>
